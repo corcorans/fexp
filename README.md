@@ -1,4 +1,4 @@
 Expressions-in-F-sharp
 ======================
 
-Evaluating Expression in F#
+Evaluating expressions and instructions in F#
